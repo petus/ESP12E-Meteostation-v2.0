@@ -28,3 +28,4 @@ And power supply of course.<br>
 <br>
 The meteo board can be powered by mini USB connector, 3.3V pin header or external power supply (up to 16V)<br>
 <br>
+If you want to use sleeping mode of the ESP12E, solder SJ1 jumper (GPIO16 and RESET pin)
