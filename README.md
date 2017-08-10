@@ -1,7 +1,30 @@
-# ESP12E-Meteostation-v2.0
-Mini meteostation with ESP12E (NodeMCU)
+# ESP12E-Meteostation-v2.0<br>
+https://chiptron.cz<br>
+https://time4ee.com<br>
+Mini meteostation with ESP12E (ESP8266, NodeMCU)<br>
 
-Mini meteostation contains headers for I2C senzors and one analog header for connectiong of analog sensor like CO2 sensor.
+Mini meteostation contains 4x 4pin headers for I2C sensors and one analog header for connecting of analog sensor like CO2 sensor.<br>
 
-PCB is designed in eagle
-The platic box is KM-27
+PCB is designed in eagle.<br>
+The platic box is KM-27 and 3D case will be available asap.<br>
+<br>
+Uploading of code:<br>
+Meteo board | USB-UART bridge<br>
+RESET -> DTR<br>
+TX -> RX<br>
+RX -> TX<br>
+FLASH -> GND<br>
+<br>
+Choose NodeMCU 1.0 board in Board manager, upload the code.<br>
+<br>
+Connecting of I2C sensor:<br>
+Meteo board | I2C sensor<br>
+\+ -> VCC (3.3V)<br>
+c -> SCL<br>
+d -> SDA<br>
+no label -> GND<br>
+<br>
+And power supply of course.<br>
+<br>
+The meteo board can be powered by mini USB connector, 3.3V pin header or external power supply (up to 16V)<br>
+<br>
