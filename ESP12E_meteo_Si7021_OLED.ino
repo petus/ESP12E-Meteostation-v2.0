@@ -29,9 +29,7 @@ void setup() {
   
   Serial.begin(9600); // Open serial connection to report values to host
   delay(10);
-   
-  Serial.println("setup loop");
-  
+
   sensor.begin(SDA,SCL);
 
   // by default, we'll generate the high voltage from the 3.3v line internally! (neat!)
