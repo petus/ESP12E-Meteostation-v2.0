@@ -18,7 +18,7 @@ TX -> RX<br>
 RX -> TX<br>
 FLASH -> GND<br>
 <br>
-Choose NodeMCU 1.0 board in Board manager, upload the code.<br>
+Choose NodeMCU 1.0 board in Board manager, upload the code. Then unplug the USB-UART converter<br>
 <br>
 Connecting of I2C sensor:<br>
 Meteo board | I2C sensor<br>
