@@ -1,4 +1,7 @@
 # ESP12E-Meteostation-v2.0<br>
+<br>
+<b>The meteostation building kit is available on http://kitman.eprodavac.cz/meteostanice-chiptron-meteov2-wifi-79/</b><br>
+<br>
 (english language) https://time4ee.com, https://time4ee.com/articles.php?article_id=48<br>
 (czech language) https://chiptron.cz, https://chiptron.cz/articles.php?article_id=113<br>
 Mini meteostation with ESP12E (ESP8266, NodeMCU)<br>
