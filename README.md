@@ -3,7 +3,7 @@
 <b>The meteostation building kit is available on http://kitman.eprodavac.cz/meteostanice-chiptron-meteov2-wifi-79/</b><br>
 <br>
 (english language) https://time4ee.com, https://time4ee.com/articles.php?article_id=48 <br>
-(czech language) https://chiptron.cz, https://chiptron.cz/articles.php?article_id=113 <br>
+(czech language) https://chiptron.cz, https://chiptron.cz/articles.php?article_id=175 <br>
 <br>
 <strong>List of interesting sensors:</strong> <br>
 (english) https://time4ee.com/articles.php?article_id=58 <br>
